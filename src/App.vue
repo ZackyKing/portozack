@@ -13,7 +13,7 @@
                 </ul>
             </nav>
             <div class="header-text">
-                <p>UI/UX Designer & Programer</p>
+                <p>UI/UX Designer & Programmer</p>
                 <h1>Hi, I'm <span>Zacky Argya Tarigan</span><br>Nice to meet you</h1>
             </div>
         </div>
